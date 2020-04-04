@@ -82,7 +82,7 @@ body{
     font-size: 16px;
 }
 #referral_options{
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .form-div >select:focus{
     outline: 1px solid #2783FB;
@@ -96,6 +96,7 @@ body{
     font-size: 14px;
     font-weight: bold;
     border-radius: 10px 10px 10px 0px;
+    border-style: none;
 }
 #submit:hover{
     background-color: #052B6F;
@@ -103,9 +104,9 @@ body{
 .reminder{
     width: 450px;
     margin-left: 490px;
-    text-align: center;
+    /* text-align: center; */
     color: #FFFFFF;
-    padding: 20px 0px 50px 0px;
+    padding: 20px 0px 50px 80px;
 }
 .reminder >a {
     text-decoration: none;
