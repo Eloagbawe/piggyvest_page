@@ -101,6 +101,8 @@ body{
     background-color: #052B6F;
 }
 .reminder{
+    width: 450px;
+    margin-left: 490px;
     text-align: center;
     color: #FFFFFF;
     padding: 20px 0px 50px 0px;
